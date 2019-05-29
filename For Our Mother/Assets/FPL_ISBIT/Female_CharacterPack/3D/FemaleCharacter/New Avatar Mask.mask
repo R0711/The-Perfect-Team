@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: bb_female_body
+    m_Weight: 1
+  - m_Path: bb_female_hair
+    m_Weight: 1
+  - m_Path: colors_top
+    m_Weight: 1
+  - m_Path: colors_top_bottom
+    m_Weight: 1
+  - m_Path: dress_tennis_granit
+    m_Weight: 1
+  - m_Path: green_tights
+    m_Weight: 1
+  - m_Path: Hoodie_turquoise
+    m_Weight: 1
+  - m_Path: Hoodie_turquoise/sportswear_top_granit_hoodie
+    m_Weight: 1
+  - m_Path: jacket_hive
+    m_Weight: 1
+  - m_Path: reference
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_LeftUpLeg
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_LeftUpLeg/bb_female_LeftLeg
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_LeftUpLeg/bb_female_LeftLeg/bb_female_LeftFoot
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_LeftUpLeg/bb_female_LeftLeg/bb_female_LeftFoot/bb_female_LeftToeBase
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_RightUpLeg
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_RightUpLeg/bb_female_RightLeg
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_RightUpLeg/bb_female_RightLeg/bb_female_RightFoot
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_RightUpLeg/bb_female_RightLeg/bb_female_RightFoot/bb_female_RightToeBase
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandIndex1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandIndex1/bb_female_LeftHandIndex2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandIndex1/bb_female_LeftHandIndex2/bb_female_LeftHandIndex3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandIndex1/bb_female_LeftHandIndex2/bb_female_LeftHandIndex3/polySurface184
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandMiddle1/bb_female_LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandMiddle1/bb_female_LeftHandMiddle2/bb_female_LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandMiddle1/bb_female_LeftHandMiddle2/bb_female_LeftHandMiddle3/polySurface185
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandPinky1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandPinky1/bb_female_LeftHandPinky2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandPinky1/bb_female_LeftHandPinky2/bb_female_LeftHandPinky3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandPinky1/bb_female_LeftHandPinky2/bb_female_LeftHandPinky3/polySurface187
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandRing1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandRing1/bb_female_LeftHandRing2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandRing1/bb_female_LeftHandRing2/bb_female_LeftHandRing3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandRing1/bb_female_LeftHandRing2/bb_female_LeftHandRing3/polySurface186
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandThumb1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandThumb1/bb_female_LeftHandThumb2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandThumb1/bb_female_LeftHandThumb2/bb_female_LeftHandThumb3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/bb_female_LeftHandThumb1/bb_female_LeftHandThumb2/bb_female_LeftHandThumb3/polySurface180
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/polySurface181
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/polySurface182
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/polySurface183
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_LeftShoulder/bb_female_LeftArm/bb_female_LeftForeArm/bb_female_LeftForeArmRoll/bb_female_LeftHand/polySurface188
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform1/Eye_R_joint
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform1/Eye_R_joint/Eye_R
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform1/Eye_R_joint/pSphere1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform2/Eye_L_joint
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform2/Eye_L_joint/Eye_L
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_Neck/bb_female_Head/transform2/Eye_L_joint/pSphere2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandIndex1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandIndex1/bb_female_RightHandIndex2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandIndex1/bb_female_RightHandIndex2/bb_female_RightHandIndex3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandMiddle1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandMiddle1/bb_female_RightHandMiddle2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandMiddle1/bb_female_RightHandMiddle2/bb_female_RightHandMiddle3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandPinky1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandPinky1/bb_female_RightHandPinky2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandPinky1/bb_female_RightHandPinky2/bb_female_RightHandPinky3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandRing1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandRing1/bb_female_RightHandRing2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandRing1/bb_female_RightHandRing2/bb_female_RightHandRing3
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandThumb1
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandThumb1/bb_female_RightHandThumb2
+    m_Weight: 1
+  - m_Path: reference/bb_female_Hips/bb_female_Spine/bb_female_Spine1/bb_female_Spine2/bb_female_RightShoulder/bb_female_RightArm/bb_female_RightForeArm/bb_female_RightForeArmRoll/bb_female_RightHand/bb_female_RightHandThumb1/bb_female_RightHandThumb2/bb_female_RightHandThumb3
+    m_Weight: 1
+  - m_Path: shoe_low_white
+    m_Weight: 1
+  - m_Path: shoes_tall_turquoise
+    m_Weight: 1
+  - m_Path: shoes_tall_white
+    m_Weight: 1
+  - m_Path: shorts_turquoise
+    m_Weight: 1
+  - m_Path: skirt_turquoise
+    m_Weight: 1
+  - m_Path: sports_underwear_bottoms
+    m_Weight: 1
+  - m_Path: sportswear_sweater_granit
+    m_Weight: 1
+  - m_Path: sportswear_top
+    m_Weight: 1
+  - m_Path: sportswear_top_granit
+    m_Weight: 1
+  - m_Path: sportwear_pants_granit
+    m_Weight: 1
+  - m_Path: swimwear_black_bottom
+    m_Weight: 1
+  - m_Path: swimwear_black_top
+    m_Weight: 1
+  - m_Path: tanktop_whiteBlackStraps
+    m_Weight: 1
+  - m_Path: tanktop_yellow
+    m_Weight: 1
+  - m_Path: tanktop_zebra
+    m_Weight: 1
+  - m_Path: tights_gray
+    m_Weight: 1
+  - m_Path: tights_purple
+    m_Weight: 1
+  - m_Path: tights_stripe
+    m_Weight: 1
+  - m_Path: tshirt_turquoise
+    m_Weight: 1
+  - m_Path: underwear_bra_green
+    m_Weight: 1
+  - m_Path: underwear_bra_purple
+    m_Weight: 1
+  - m_Path: underwear_bra_white
+    m_Weight: 1
+  - m_Path: underwear_bra_yellow
+    m_Weight: 1
+  - m_Path: underwear_greenPalettes
+    m_Weight: 1
+  - m_Path: underwear_purple
+    m_Weight: 1
+  - m_Path: underwear_white_granit_bottom
+    m_Weight: 1
+  - m_Path: underwear_white_granit_top
+    m_Weight: 1
+  - m_Path: underwear_whiteLace
+    m_Weight: 1
+  - m_Path: underwear_whiteStriped
+    m_Weight: 1
